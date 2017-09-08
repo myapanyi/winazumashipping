@@ -1,0 +1,128 @@
+.ser1,
+.ser2,
+.ser3{
+    list-style: none;
+    margin: 1em 0;
+}
+.ser1 a:hover{
+    text-decoration-color:blue;
+color: blue;
+background-color: #f0eeee;
+width: 185px;
+}
+.ser1 a:visited{
+    color:blue;
+    
+}
+.ser2 a:hover{
+        text-decoration-color:blue;
+color: blue;
+background-color: #f0eeee;
+width: 185px;
+}
+.ser2 a:visited{
+color:blue;
+}
+.ser3 a:hover{
+        text-decoration-color:blue;
+color: blue;
+background-color: #f0eeee;
+width: 185px;
+}
+.ser3 a:visited{
+    color:blue;
+}
+
+
+.ser1 a{
+background: url(../images/arrow_boxr.gif) no-repeat 4px 0.6em;
+display: block;
+width: 180px;
+padding: 0.3em 0 0.3em 18px;
+border-bottom: 1px dotted #c5c3c3;
+color: #333;
+font-size: 12px;
+}
+.ser2 a{
+background: url(../images/arrow_boxr.gif) no-repeat 4px 0.6em;
+display: block;
+width: 180px;
+padding: 0.3em 0 0.3em 18px;
+font-size: 12px;
+color: #333;
+}
+.ser3 a{
+background: url(../images/arrow_boxr.gif) no-repeat 4px 1em;
+display: block;
+width: 180px;
+padding: 10px 0 10px 16px;
+border-bottom: 1px dotted #c5c3c3;
+border-top: 1px dotted #c5c3c3;
+font-size: 12px;
+color: #333;
+}
+.sub_ser{
+    background: url(../images/arrow.gif) no-repeat 0px 0.5em !important;
+}
+.ser_img{
+	margin: 0;
+	padding: 0;
+}
+.title_bar{
+	background-color: #004785;
+    height: 25px;
+    border-top:1px solid #c5c3c3;
+}
+
+.content_align{
+  text-align: justify;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 14px;
+}
+.service_img{
+   display: block;float: right;
+   width: 130px;height: 100px;
+   padding-right: 10px;
+
+}
+.thumbnail {
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.428571429;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+  -webkit-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;
+      }
+.companys{
+  background: url(../images/arrow_boxr.gif) no-repeat 4px 1em;
+display: block;
+width: 180px;
+padding: 8px 0 2px 16px;
+border-bottom: 1px dotted #c5c3c3;
+
+font-size: 12px;
+}
+.companys_text{
+color: #333;
+}
+.companys a:hover{
+text-decoration-color:blue;
+color: blue;
+background-color: #f0eeee;
+width: 185px;
+}
+.companys a:visited{
+    color:blue;
+}
+.link_over:hover{
+  text-decoration-color:blue;
+color: white;
+}
+.sitemap_link li a:hover{
+  text-decoration-color:blue;
+color: blue;
+}
